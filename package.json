@@ -1,0 +1,14 @@
+{
+  "name": "broadband-monitor-pi",
+  "version": "1.0.0",
+  "description": "monitor uptime of broadband on a raspberry pi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tom Townsend",
+  "license": "MIT",
+  "dependencies": {
+    "request": "2.74.0"
+  }
+}
